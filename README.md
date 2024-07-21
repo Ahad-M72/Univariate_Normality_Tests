@@ -2,7 +2,7 @@
 Many parametric tests in statistical software require normality as a crucial assumption. Here is the code for the Python environment to conduct normality tests, including measures of skewness and kurtosis, and the coefficient of variation for univariate normality tests.
 # CSV Coefficient of Variation Calculator
 
-These script calculates the coefficient of variation (CV), Skewness and Kurtosis for each numeric column in a given CSV file. 
+This script calculates the coefficient of variation (CV) for each numeric column in a given CSV file. 
 
 ## Features
 
