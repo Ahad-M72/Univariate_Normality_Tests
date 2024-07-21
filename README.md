@@ -17,4 +17,4 @@ This script calculates the coefficient of variation (CV) for each numeric column
 3. Run the script.
 
 ```bash
-python cv.py
+python CV.py
