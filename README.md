@@ -2,10 +2,10 @@
 Many parametric tests in statistical software require normality as a crucial assumption. Here is the code for the Python environment to conduct normality tests, including measures of skewness and kurtosis, and the coefficient of variation for univariate normality tests.
 
 ## Contents
-Shapiro-Wilk.py: Conducts the Shapiro-Wilk test for normality.
-Skewness and Kurtosis.py: calculates the absolute skewness and kurtosis.
-Histogram.py: Generates histograms for visualizing data distributions.
-QQ-plot.py: Creates Q-Q plots to check the normality of data.
+  Shapiro-Wilk.py: Conducts the Shapiro-Wilk test for normality.
+  Skewness and Kurtosis.py: calculates the absolute skewness and kurtosis.
+  Histogram.py: Generates histograms for visualizing data distributions.
+  QQ-plot.py: Creates Q-Q plots to check the normality of data.
 
 
 # CSV Shapiro-Wilk Statistic (W) Calculator
