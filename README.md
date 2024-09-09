@@ -22,7 +22,7 @@ Many parametric tests in statistical software require normality as a crucial ass
 
 # Skewness and Kurtosis Calculator
 
-`Skewness and Kurtosis.py` calculates the absolute skewness and kurtosis for all numeric columns in a given CSV file. The calculation of skewness and kurtosis, is created based on the formulas and information in a study conductd by Cain in 2017 [2].
+`Skewness and Kurtosis.py` calculates the absolute skewness and kurtosis for all numeric columns in a given CSV file. The script is created based on the formulas and information in a study conductd by Cain in 2017 [2].
 
 
 ## Usage
