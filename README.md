@@ -12,7 +12,7 @@ Many parametric tests in statistical software require normality as a crucial ass
   
 # CSV Shapiro-Wilk Statistic (W) Calculator
 
-`Shapiro-Wilk.py` calculates the Shapiro-Wilk statistic (W) for numeric columns in a given CSV file. 
+`Shapiro-Wilk.py` calculates the Shapiro-Wilk statistic (W) for numeric columns in a given CSV file. As mentioned by Ostrowski and Menyhárt (2020), The Shapiro-Wilk test for normality can be conducted using the `shapiro()` function from the `scipy.stats` library in Python (Ostrowski and Menyhárt, 2020)^1.
 
 ## Usage
 
