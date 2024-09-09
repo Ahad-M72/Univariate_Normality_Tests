@@ -10,7 +10,7 @@ Many parametric tests in statistical software require normality as a crucial ass
   
   `QQ-plot.py` Creates Q-Q plots to check the normality of data.
   
-# CSV Shapiro-Wilk Statistic (W) Calculator
+# Shapiro-Wilk Statistic (W) Calculator
 
 `Shapiro-Wilk.py` calculates the Shapiro-Wilk statistic (W) for numeric columns in a given CSV file. As mentioned by Ostrowski and Menyhárt [1], The Shapiro-Wilk test for normality can be conducted using the `shapiro()` function from the `scipy.stats` library in Python (Ostrowski and Menyhárt, 2020).
 
@@ -20,7 +20,7 @@ Many parametric tests in statistical software require normality as a crucial ass
 2. Modify the `file_path` variable in the script to point to your CSV file and write the column name.
 3. Run the script.
 
-# CSV Skewness and Kurtosis Calculator
+# Skewness and Kurtosis Calculator
 
 `Skewness and Kurtosis.py` calculates the absolute skewness and kurtosis for all numeric columns in a given CSV file. The calculation of skewness and kurtosis, is created based on the formulas and information in a study conductd by Cain in 2017 [2].
 
@@ -32,7 +32,7 @@ Many parametric tests in statistical software require normality as a crucial ass
 3. Run the script.
 
 
-# CSV histogram Generator
+# Histogram Generator
 `Histogram.py` generates a histogram for the specified data column from a CSV file, helping visualize data distributions. The script is created based on the descriptions in an article conducted by Ostrowski and Menyhárt [1].
 ## Usage
 1. Place your CSV file in an accessible location.
@@ -41,7 +41,7 @@ Many parametric tests in statistical software require normality as a crucial ass
 4. Run the script to view the histogram.
 
 
-# CSV QQ-plot Generator
+# QQ-plot Generator
 `QQ-plot.py` generates a Q-Q plot for a specified column from a CSV file, which helps to check if your data follows a normal distribution. The script is created based on the descriptions in an article conducted by Ostrowski and Menyhárt [1].
 
 ## Usage
