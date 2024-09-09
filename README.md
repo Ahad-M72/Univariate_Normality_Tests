@@ -22,7 +22,7 @@ Shapiro-Wilk.py calculates the Shapiro-Wilk statistic (W) for numeric columns in
 
 # CSV Skewness and Kurtosis Calculator
 
-This script calculates the absolute skewness and kurtosis for all numeric columns in a given CSV file.
+Skewness and Kurtosis.py calculates the absolute skewness and kurtosis for all numeric columns in a given CSV file.
 
 
 ## Usage
