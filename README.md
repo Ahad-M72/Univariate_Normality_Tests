@@ -57,6 +57,6 @@ and estimation. Behavior Research Methods 49, 1716–1735. ([https://rdcu.be/dTq
 
 ```bash
 python Skewness and Kurtosis.py
-Shapiro-Wilk.py
-Histogram.py
-QQ-plot.py
+python Shapiro-Wilk.py
+python Histogram.py
+python QQ-plot.py
