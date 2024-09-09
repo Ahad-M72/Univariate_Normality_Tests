@@ -33,7 +33,7 @@ Many parametric tests in statistical software require normality as a crucial ass
 
 
 # CSV histogram Generator
-`Histogram.py` generates a histogram for the specified data column from a CSV file, helping visualize data distributions. The script is created based on the descriptions in an article conducted by Ostrowski and Menyhárt [1]
+`Histogram.py` generates a histogram for the specified data column from a CSV file, helping visualize data distributions. The script is created based on the descriptions in an article conducted by Ostrowski and Menyhárt [1].
 ## Usage
 1. Place your CSV file in an accessible location.
 2. Modify the file_path variable in the script to point to your CSV file.
@@ -42,7 +42,7 @@ Many parametric tests in statistical software require normality as a crucial ass
 
 
 # CSV QQ-plot Generator
-`QQ-plot.py` generates a Q-Q plot for a specified column from a CSV file, which helps to check if your data follows a normal distribution. The script is created based on the descriptions in an article conducted by Ostrowski and Menyhárt [1]
+`QQ-plot.py` generates a Q-Q plot for a specified column from a CSV file, which helps to check if your data follows a normal distribution. The script is created based on the descriptions in an article conducted by Ostrowski and Menyhárt [1].
 
 ## Usage
 1. Place your CSV file in an accessible location.
