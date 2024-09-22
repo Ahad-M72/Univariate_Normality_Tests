@@ -53,7 +53,7 @@ Many parametric tests in statistical software require normality as a crucial ass
 ## How to Cite:
 
 
-To reference this repository in academic publications and other documentation, a DOI badge has been added to the README. This badge links directly to the Zenodo archive, providing a stable and citable DOI.
+A DOI badge has been added to the README to reference this repository in academic publications and other documentation. This badge links directly to the Zenodo archive, providing a stable and citable DOI.
 
 [![DOI](https://zenodo.org/badge/831840509.svg)](https://zenodo.org/doi/10.5281/zenodo.13824213)
 
