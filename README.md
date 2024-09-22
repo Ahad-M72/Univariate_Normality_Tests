@@ -50,10 +50,17 @@ Many parametric tests in statistical software require normality as a crucial ass
 3. Specify the column name to analyze in the script.
 4. Run the script to create and display the Q-Q plot.
 
+## How to Cite:
+
+
+To reference this repository in academic publications and other documentation, a DOI badge has been added to the README. This badge links directly to the Zenodo archive, providing a stable and citable DOI.
+[![DOI](https://zenodo.org/badge/831840509.svg)](https://zenodo.org/doi/10.5281/zenodo.13824213)
+
+
 # References
-1. Ostrowski, J.G., Menyhárt, J., 2020, Statistical analysis of machinery variance by python. Acta Polytechnica Hungarica 17, 151–168 (https://acta.uni-obuda.hu/Ostrowski_Menyhart_102.pdf).
+1. Ostrowski, J.G., Menyhárt, J., 2020, Statistical analysis of machinery variance by python. Acta Polytechnica Hungarica 17, 151–168 .
 2. Cain, M.K., Zhang, Z., Yuan, K.H., 2017. Univariate and multivariate skewness and kurtosis for measuring nonnormality: Prevalence, influence
-and estimation. Behavior Research Methods 49, 1716–1735. ([https://rdcu.be/dTqDt](https://doi.org/10.3758/s13428-016-0814-1)).
+and estimation. Behavior Research Methods 49, 1716–1735.
 
 ```bash
 python Skewness and Kurtosis.py
